@@ -1,0 +1,12 @@
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\bin\Debug\Frameworkk.dll
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\bin\Debug\Frameworkk.pdb
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\bin\Debug\Framework.dll
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\bin\Debug\WebDriver.dll
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\bin\Debug\WebDriver.Support.dll
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\bin\Debug\Framework.pdb
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\bin\Debug\WebDriver.xml
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\bin\Debug\WebDriver.Support.xml
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\obj\Debug\Frameworkk.csprojResolveAssemblyReference.cache
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\obj\Debug\Frameworkk.dll
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\obj\Debug\Frameworkk.pdb
+C:\Users\Hanna_Khomka@epam.com\Trainings\Task8\Framework\Frameworkk\bin\Debug\Frameworkk.dll.config

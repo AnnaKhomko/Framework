@@ -1,0 +1,28 @@
+2016-12-08 10:27:44,779 INFO Framework.Core.Logger - Input InpLogin was cleared
+2016-12-08 10:27:44,925 INFO Framework.Core.Logger - Text: 'second.user.example@gmail.com' was setted in input InpLogin
+2016-12-08 10:27:45,600 INFO Framework.Core.Logger - Button BtNext was clicked!
+2016-12-08 10:27:46,669 INFO Framework.Core.Logger - Input InpPassword was cleared
+2016-12-08 10:27:46,745 INFO Framework.Core.Logger - Text: 'password2user' was setted in input InpPassword
+2016-12-08 10:27:47,327 INFO Framework.Core.Logger - Button BtSignIn was clicked!
+2016-12-08 10:27:52,317 INFO Framework.Core.Logger - Link LThemes was followed!
+2016-12-08 10:27:52,911 INFO Framework.Core.Logger - Link LSetThemes was followed!
+2016-12-08 10:27:53,809 INFO Framework.Core.Logger - Button BtMyPhotoes was clicked!
+2016-12-08 10:27:56,853 INFO Framework.Core.Logger - Link LUploadPhotos was followed!
+2016-12-08 10:27:57,367 INFO Framework.Core.Logger - Button BtSelectFromComputer was clicked!
+2016-12-08 10:34:58,033 INFO Framework.Core.Logger - Input InpLogin was cleared
+2016-12-08 10:34:58,188 INFO Framework.Core.Logger - Text: 'second.user.example@gmail.com' was setted in input InpLogin
+2016-12-08 10:34:58,840 INFO Framework.Core.Logger - Button BtNext was clicked!
+2016-12-08 10:34:59,425 INFO Framework.Core.Logger - Input InpPassword was cleared
+2016-12-08 10:34:59,514 INFO Framework.Core.Logger - Text: 'password2user' was setted in input InpPassword
+2016-12-08 10:35:00,060 INFO Framework.Core.Logger - Button BtSignIn was clicked!
+2016-12-08 10:35:04,924 INFO Framework.Core.Logger - Button BtCompose was clicked!
+2016-12-08 10:35:05,922 INFO Framework.Core.Logger - TextArea TaReceiver was cleared
+2016-12-08 10:35:07,249 INFO Framework.Core.Logger - Text: 'first.user.example@gmail.com' was setted in TextArea TaReceiver
+2016-12-08 10:35:08,285 INFO Framework.Core.Logger - Button BtEmoticons was clicked!
+2016-12-08 10:35:10,323 INFO Framework.Core.Logger - Button BtAllEmoticons was clicked!
+2016-12-08 10:35:12,070 INFO Framework.Core.Logger - Button BtFirstEmodi was clicked!
+2016-12-08 10:35:12,588 INFO Framework.Core.Logger - Button BtSecondEmodi was clicked!
+2016-12-08 10:35:13,008 INFO Framework.Core.Logger - Button BtSend was clicked!
+2016-12-08 10:35:14,147 INFO Framework.Core.Logger - Link LAccount was followed!
+2016-12-08 10:35:14,474 INFO Framework.Core.Logger - Button BtSignOut was clicked!
+2016-12-08 10:35:17,047 INFO Framework.Core.Logger - Link LChangeAccount was followed!
