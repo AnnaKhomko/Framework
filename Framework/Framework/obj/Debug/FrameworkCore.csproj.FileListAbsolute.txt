@@ -35,3 +35,14 @@ C:\Users\Hanna_Khomka\Desktop\TAF-master\TAF-master\Framework\Framework\bin\Debu
 C:\Users\Hanna_Khomka\Desktop\TAF-master\TAF-master\Framework\Framework\bin\Debug\WebDriver.Support.xml
 C:\Users\Hanna_Khomka\Desktop\TAF-master\TAF-master\Framework\Framework\obj\Debug\Framework.dll
 C:\Users\Hanna_Khomka\Desktop\TAF-master\TAF-master\Framework\Framework\obj\Debug\Framework.pdb
+C:\Users\Hanna_Khomka\Desktop\TAF\Framework\Framework\Framework\bin\Debug\Framework.dll
+C:\Users\Hanna_Khomka\Desktop\TAF\Framework\Framework\Framework\bin\Debug\Framework.pdb
+C:\Users\Hanna_Khomka\Desktop\TAF\Framework\Framework\Framework\bin\Debug\log4net.dll
+C:\Users\Hanna_Khomka\Desktop\TAF\Framework\Framework\Framework\bin\Debug\WebDriver.dll
+C:\Users\Hanna_Khomka\Desktop\TAF\Framework\Framework\Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\Hanna_Khomka\Desktop\TAF\Framework\Framework\Framework\bin\Debug\log4net.xml
+C:\Users\Hanna_Khomka\Desktop\TAF\Framework\Framework\Framework\bin\Debug\WebDriver.xml
+C:\Users\Hanna_Khomka\Desktop\TAF\Framework\Framework\Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\Hanna_Khomka\Desktop\TAF\Framework\Framework\Framework\obj\Debug\FrameworkCore.csprojResolveAssemblyReference.cache
+C:\Users\Hanna_Khomka\Desktop\TAF\Framework\Framework\Framework\obj\Debug\Framework.dll
+C:\Users\Hanna_Khomka\Desktop\TAF\Framework\Framework\Framework\obj\Debug\Framework.pdb
