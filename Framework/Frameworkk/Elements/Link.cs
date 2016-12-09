@@ -23,7 +23,7 @@ namespace Framework.Elements
         public void FollowToLink()
         {
             IElement.Click();
-            Logger.LogToFile($"Link {name} was followed!");
+            Logger.LogToFile("Link "+ name +" was followed!");
         }
     }
 }

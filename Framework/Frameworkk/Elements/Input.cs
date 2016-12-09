@@ -25,9 +25,9 @@ namespace Framework.Elements
         {
            
             IElement.Clear();
-            Logger.LogToFile($"Input {name} was cleared");
+            Logger.LogToFile("Input "+name+" was cleared");
             IElement.SendKeys(text);
-            Logger.LogToFile($"Text: '{text}' was setted in input {name}");
+            Logger.LogToFile("Text: \'"+text+"\' was setted in input "+name);
 
         }
     }

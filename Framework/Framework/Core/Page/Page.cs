@@ -9,7 +9,7 @@ namespace Framework.Core
 {
     public abstract class Page
     {
-        public Uri Uri { get; }
+        //public Uri Uri { get; }
         protected string Title;
     }
 }

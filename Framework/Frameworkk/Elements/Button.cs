@@ -25,7 +25,7 @@ namespace Framework.Elements
         {
             
             IElement.Click();
-            Logger.LogToFile($"Button {name} was clicked!");
+            Logger.LogToFile("Button "+name+" was clicked!");
         }
     }
 }

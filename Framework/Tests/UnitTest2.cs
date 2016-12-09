@@ -60,7 +60,7 @@ namespace Tests
         [Test]
         public void TestSetSettings()
         {
-            string path = TestContext.CurrentContext.TestDirectory;
+            /*string path = TestContext.CurrentContext.TestDirectory;
             autorisation.SetLogin(user2.Login);
             autorisation.SetPassword(user2.Password);
             // sett.OpenSettings();
@@ -68,7 +68,7 @@ namespace Tests
             settings.ChooseForwardPage();
             settings.AddForwardAddress(user3.Login);
             //Thread.Sleep(1000);
-           /* exit.LogOut();
+            exit.LogOut();
             exit.ChangeAccount();
             exit.AddAccount();
 

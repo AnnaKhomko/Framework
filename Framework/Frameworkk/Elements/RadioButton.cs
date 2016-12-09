@@ -26,7 +26,7 @@ namespace Framework.Elements
                 IElement.Click();
             }
 
-            Logger.LogToFile($"RadioButton {name} was selected!");
+            Logger.LogToFile("RadioButton "+name+" was selected!");
         }
     
     }

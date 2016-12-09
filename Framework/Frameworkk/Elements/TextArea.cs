@@ -23,9 +23,9 @@ namespace Framework.Elements
         public void SetText(string text)
         {
             IElement.Clear();
-            Logger.LogToFile($"TextArea {name} was cleared");
+            Logger.LogToFile("TextArea "+name+" was cleared");
             IElement.SendKeys(text);
-            Logger.LogToFile($"Text: '{text}' was setted in TextArea {name}");
+            Logger.LogToFile("Text: \'"+text+"\' was setted in TextArea {name}");
         }
 
         public string GetText()

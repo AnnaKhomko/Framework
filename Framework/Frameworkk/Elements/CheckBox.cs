@@ -29,7 +29,7 @@ namespace Framework.Elements
                 IElement.Click();
             }
 
-            Logger.LogToFile($"CheckBox {name} was selected!");
+            Logger.LogToFile("CheckBox "+name+" was selected!");
         }
 
         public void Deselect()
@@ -41,7 +41,7 @@ namespace Framework.Elements
                 IElement.Click();
             }
 
-            Logger.LogToFile($"CheckBox {name} was deselected!");
+            Logger.LogToFile("CheckBox "+name+" was deselected!");
         }
     }
 }
